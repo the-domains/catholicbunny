@@ -1,0 +1,28 @@
+name: 'Catholicbunny '
+favicon: null
+layout_spectrum: 0.3430997091345489
+typography_spectrum: 0.6044358587823808
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8661190355196595
+  lightness: 0.4892123523168266
+  saturation: 0.613031035521999
+  rhythmicContrast: 0.8846783188637346
+purpose: []
